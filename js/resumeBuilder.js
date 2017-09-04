@@ -15,7 +15,7 @@ var bio = {
 	},
 	"welcomeMessage" : "Welcome to my  Javascript-created Résumé ",
 	"skills" : ["Javascript","Ruby", "C/C++", "Postgresql", "Ruby on Rails",  "awesomeness"],
-	"bioPic" : "https://d30y9cdsu7xlg0.cloudfront.net/png/1836-200.png"
+	"bioPic" : "https://avatars1.githubusercontent.com/u/21144986?v=4&u=715875a7768c05d0ac9a7c7ebcad8041f22643ec&s=400"
 };
 
 //here we will use .disply to show my info from the bio
