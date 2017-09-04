@@ -121,6 +121,20 @@ var projects = {
 			"description" : "Website created with ruby on rails and Postgresql, you can create product, sing up, write reviews and deleted them or edit them.",
 			"url" : "https://amazon-app-mohammed.herokuapp.com/",
 			"images" : ""
+		},
+		{
+			"title" : "Bytes-Me",
+			"dates" : "2017",
+			"description" : "This is a multiple choice quiz testing the user's coding knowledge which my group and I. Built under 72 hours at CodeCore developer Bootcamp.",
+			"url" : "https://github.com/ozgecokyasar/Bytes_me",
+			"images" : ""
+		},
+		{
+			"title" : "DevUp",
+			"dates" : "2017",
+			"description" : "DevUp is a application for team mangment. In this website other developer who are looking to do projects, work and help other developer. In the application the user can create rooms, in this rooms there will be deatils about the project what languages are used. This application is the perfect platform for developers who wants to communicate with other new developers.",
+			"url" : "https://github.com/MohammedBm/DevUp",
+			"images" : ""
 		}
 	],
 	display() {
@@ -154,12 +168,12 @@ var projects = {
 var education = {
 	"schools": [
 		{
-			"name" : "UBC",
+			"name" : "CodeCore",
 			"location" : "Vancouver",
-			"degree" : "",
-			"majors" : "",
-			"dates" : 2016,
-			"url" : ""
+			"degree" : "Full Stack Web Developer",
+			"majors" : "Full Stack Web Developer",
+			"dates" : 2017,
+			"url" : 'http://codecore.ca/'
 		},
 
 
@@ -284,5 +298,4 @@ function inName() {
 }
 
 $("#main").append(internationalizeButton);
-
 $("#mapDiv").append(googleMap);
